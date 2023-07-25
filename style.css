@@ -1,0 +1,13 @@
+/* Estilizando o texto da navbar (logotipo) */
+.navbar-brand {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+
+
+}
+  .navbar-brand, .dropdown-item {
+    font-family: 'Josefin Sans', sans-serif;
+  }
+body{
+    background-color: blueviolet;
+  }
